@@ -3,9 +3,7 @@ using namespace std;
 
 
 
-/*
-    Parameters and seed values for the random-number generator
-*/
+
 const int M = (1 << 16) | 1;
 const int A = 75;
 const int C = 74;
